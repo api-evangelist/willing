@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "willing",
+    "captured_at": "2026-10-11T195730",
+    "source_url": "https://willing.com",
+    "source_type": "Website",
+    "file": "willing-2026-10-11T195730.png",
+    "bytes": 81720,
+    "capture": "playwright-local"
+  }
+]
